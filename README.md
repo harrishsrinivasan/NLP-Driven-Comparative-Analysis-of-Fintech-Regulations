@@ -50,4 +50,4 @@ The project applies NLP techniques to extract, preprocess, and analyze key simil
 ## How to Run  
 1. Clone the repository:  
 ```bash
-git clone https://github.com/harrishsrinivasan/NLP-Driven-Comparative-Analysis-of-Fintech-Regulations-India-UK-and-USA.git
+git clone https://github.com/harrishsrinivasan/NLP-Driven-Comparative-Analysis-of-Fintech-Regulations.git
