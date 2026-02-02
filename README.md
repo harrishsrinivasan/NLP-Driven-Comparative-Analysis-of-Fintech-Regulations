@@ -11,7 +11,7 @@ The project applies NLP techniques to extract, preprocess, and analyze key simil
 ---
 
 ## Features  
-- **Text Preprocessing** – Cleaning, tokenization, stopword removal, lemmatization.  
+- **Text Preprocessing** – Cleaning, tokenization, stopword removal, lemmatization, Name Entity Recognition (NER).  
 - **Similarity Analysis** –  
   - TF-IDF + cosine similarity → India–UK: **0.36**, India–US: **0.39**, UK–US: **0.21**  
   - BERT embeddings + cosine similarity → US–UK: **0.75**, US–India: **0.72**, India–UK: **0.71**  

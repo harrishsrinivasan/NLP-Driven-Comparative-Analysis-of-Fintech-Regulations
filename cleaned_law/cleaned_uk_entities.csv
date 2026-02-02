@@ -1,0 +1,936 @@
+entity,label,count
+1,CARDINAL,171
+2,CARDINAL,102
+3,CARDINAL,71
+23122015,DATE,56
+european union,ORG,40
+4,CARDINAL,39
+european union l,ORG,36
+5,CARDINAL,32
+first,ORDINAL,32
+10932010,DATE,28
+european,NORP,27
+one,CARDINAL,24
+13,CARDINAL,18
+6,CARDINAL,17
+european parliament council,ORG,16
+7,CARDINAL,13
+european union 23122015,ORG,13
+january 2018,DATE,12
+8,CARDINAL,12
+article 2,LAW,10
+20,CARDINAL,10
+5752013,CARDINAL,10
+23122015,CARDINAL,9
+26,CARDINAL,9
+20152366,CARDINAL,9
+25,CARDINAL,9
+article 52,LAW,9
+article 5,LAW,8
+200764ec,ORDINAL,8
+third,ORDINAL,8
+november 2015,DATE,7
+35,CARDINAL,7
+annual,DATE,7
+article 11,LAW,7
+second,ORDINAL,7
+article 3,LAW,6
+2015751,DATE,6
+2015849,CARDINAL,6
+13 july 2018,DATE,6
+2 3,CARDINAL,6
+article 16,LAW,6
+article 93,LAW,6
+article 4,LAW,6
+2015849,DATE,6
+ec,ORG,5
+2015847,DATE,5
+12,CARDINAL,5
+16,CARDINAL,5
+article 10 14,LAW,5
+36,CARDINAL,5
+article 51,LAW,5
+14,CARDINAL,5
+12 month,DATE,5
+article 78,LAW,5
+article 45,LAW,5
+two,CARDINAL,5
+45,CARDINAL,4
+181,CARDINAL,4
+38,CARDINAL,4
+44,CARDINAL,4
+5 million,CARDINAL,4
+9,CARDINAL,4
+article 31,LAW,4
+50,CARDINAL,4
+1 3,CARDINAL,4
+30,CARDINAL,4
+article 32,LAW,4
+451,CARDINAL,4
+46,CARDINAL,4
+11,CARDINAL,4
+32,CARDINAL,4
+article 101,LAW,4
+28,CARDINAL,4
+201336eu european parliament council,ORG,4
+3 month,DATE,4
+article 83,LAW,4
+article 71,LAW,4
+june 2013,DATE,4
+29,CARDINAL,4
+24,CARDINAL,4
+17,CARDINAL,4
+150,CARDINAL,4
+euro,ORG,4
+article 89,LAW,4
+2602012,CARDINAL,4
+article 87,LAW,4
+23,CARDINAL,4
+article 54,LAW,3
+56,CARDINAL,3
+article 61,LAW,3
+article 981,LAW,3
+article 64,LAW,3
+73,CARDINAL,3
+441,CARDINAL,3
+69,CARDINAL,3
+1 2,CARDINAL,3
+article 73,LAW,3
+january 2017,DATE,3
+chapter 1,LAW,3
+chapter 2,LAW,3
+511,CARDINAL,3
+25 million,CARDINAL,3
+6 month,DATE,3
+article 63,LAW,3
+111,CARDINAL,3
+monthly,DATE,3
+200265ec,ORG,3
+10,CARDINAL,3
+47,CARDINAL,3
+22,CARDINAL,3
+21,CARDINAL,3
+article 76,LAW,3
+623,CARDINAL,3
+20152366,DATE,3
+37,CARDINAL,3
+article 9,LAW,3
+10932010 5,DATE,3
+2 month,DATE,3
+article 15,LAW,3
+article 41,LAW,3
+48,CARDINAL,3
+1 month,DATE,3
+201183eu european parliament council,ORG,3
+1 5,CARDINAL,3
+article 80,LAW,3
+110,CARDINAL,3
+14 15,CARDINAL,2
+fourth,ORDINAL,2
+83,CARDINAL,2
+199944ec european parliament council repeal council,ORG,2
+1day,DATE,2
+242,CARDINAL,2
+article 10 regulation eu,LAW,2
+118,CARDINAL,2
+116,CARDINAL,2
+80,CARDINAL,2
+200265ec,ORDINAL,2
+200221ec european parliament council,ORG,2
+18,CARDINAL,2
+17812006 oj l,DATE,2
+89,CARDINAL,2
+201311eu european parliament council,ORG,2
+106,CARDINAL,2
+9313eec,CARDINAL,2
+article 102,LAW,2
+200670ec,GPE,2
+200764ec 13 january 2018,DATE,2
+article 109,LAW,2
+200764ec european parliament council,ORG,2
+200848ec european parliament council,ORG,2
+european parliament council commission,ORG,2
+92,CARDINAL,2
+201334eu european parliament council,ORG,2
+78660eec,CARDINAL,2
+108,CARDINAL,2
+85577eec,CARDINAL,2
+84,CARDINAL,2
+200529ec european parliament council,ORG,2
+2015,DATE,2
+9546ec european parliament council,ORG,2
+202,CARDINAL,2
+95,CARDINAL,2
+105,CARDINAL,2
+15,CARDINAL,2
+article 104,LAW,2
+15 business day,DATE,2
+103,CARDINAL,2
+discrimi,ORG,2
+19 march 1931,DATE,2
+chapter 3,LAW,2
+222,CARDINAL,2
+223,CARDINAL,2
+152,CARDINAL,2
+100 million,CARDINAL,2
+september 2009,DATE,2
+2006112ec,ORG,2
+102,CARDINAL,2
+10 million,CARDINAL,2
+732,CARDINAL,2
+chapter ii regulation,LAW,2
+98,CARDINAL,2
+year,DATE,2
+1 13,DATE,2
+article 98,LAW,2
+981,CARDINAL,2
+article 37,LAW,2
+1 6,CARDINAL,2
+chapter 4,LAW,2
+9826ec european parliament council,ORG,2
+late end business day,DATE,2
+23122015 1,DATE,2
+ecb national central bank,ORG,2
+87,CARDINAL,2
+article 10,LAW,2
+14 15,DATE,2
+9242009,CARDINAL,2
+article 43,LAW,2
+article 13 article,LAW,2
+691,CARDINAL,2
+article 91,LAW,2
+article 42,LAW,2
+27,CARDINAL,2
+338,CARDINAL,2
+article 69,LAW,2
+40,CARDINAL,2
+article 75,LAW,2
+article 74,LAW,2
+article 21 article,LAW,2
+article 73 89,LAW,2
+article 701,LAW,2
+5932008,CARDINAL,2
+article 35,LAW,2
+4 week,DATE,2
+article 7,LAW,2
+39,CARDINAL,2
+2c,CARDINAL,2
+16062002,CARDINAL,2
+251,CARDINAL,2
+2e,CARDINAL,2
+3b,CARDINAL,2
+3a,CARDINAL,2
+article 119,LAW,2
+672,CARDINAL,2
+25 october 2011,DATE,2
+article 96,LAW,2
+452001,DATE,2
+41,CARDINAL,2
+4 5,CARDINAL,2
+285,CARDINAL,2
+58,CARDINAL,2
+7 june 1930,DATE,2
+article 25,LAW,2
+64,CARDINAL,2
+article 572,LAW,2
+6482012 oj l,DATE,2
+6482012,CARDINAL,2
+300 per month,DATE,2
+31,CARDINAL,2
+article 8,LAW,2
+article 50,LAW,2
+article 19,LAW,2
+321,CARDINAL,2
+322,CARDINAL,2
+63,CARDINAL,2
+article 18,LAW,2
+article 99 102,LAW,2
+977ec european parliament council oj l,ORG,2
+34,CARDINAL,2
+303,CARDINAL,2
+52,CARDINAL,2
+article 56,LAW,2
+article 26,LAW,2
+article 57,LAW,2
+article 29,LAW,2
+512,CARDINAL,2
+511,MONEY,2
+article 52 point article,LAW,2
+article 32 33,LAW,2
+556,CARDINAL,2
+4b,CARDINAL,2
+33,CARDINAL,2
+453,CARDINAL,2
+652,CARDINAL,2
+3 financial year,DATE,2
+203,CARDINAL,1
+205,CARDINAL,1
+19 3,CARDINAL,1
+2015847,CARDINAL,1
+2015751 3,DATE,1
+214,CARDINAL,1
+200265ec european parliament council regulation ec,ORG,1
+20152366 2,DATE,1
+21 may 2013,DATE,1
+200265ec,CARDINAL,1
+22 2,CARDINAL,1
+22 8,DATE,1
+221,CARDINAL,1
+20062004,CARDINAL,1
+170 562014,DATE,1
+201449eu european parliament council,ORG,1
+172,CARDINAL,1
+201449eu european parliament council regulation eu,ORG,1
+10242013 15,DATE,1
+201336eu point 4,CARDINAL,1
+109,CARDINAL,1
+100,CARDINAL,1
+173 1262014,DATE,1
+1002,DATE,1
+101,CARDINAL,1
+10242013,DATE,1
+104,ORG,1
+104,PRODUCT,1
+108,MONEY,1
+16 april 2014,DATE,1
+201334eu,ORDINAL,1
+17 june 2008,DATE,1
+224,CARDINAL,1
+201492eu european parliament council,ORG,1
+20062004,DATE,1
+200643ec european parliament council,ORG,1
+200764ec 13 january 2019,DATE,1
+200922ec,ORDINAL,1
+201,CARDINAL,1
+173,CARDINAL,1
+743,CARDINAL,1
+175,CARDINAL,1
+7 8,CARDINAL,1
+05,CARDINAL,1
+70,CARDINAL,1
+701,CARDINAL,1
+71,CARDINAL,1
+72,CARDINAL,1
+73 89,DATE,1
+731,CARDINAL,1
+74 1432014,DATE,1
+691,PRODUCT,1
+10 business day,DATE,1
+75,CARDINAL,1
+751,CARDINAL,1
+76,CARDINAL,1
+763,CARDINAL,1
+764,CARDINAL,1
+77,CARDINAL,1
+78,CARDINAL,1
+7 march 2002,DATE,1
+74,CARDINAL,1
+177,CARDINAL,1
+33751,DATE,1
+177 472008,DATE,1
+18 december 2000,DATE,1
+18 month,DATE,1
+19,CARDINAL,1
+19 july 2002,DATE,1
+200031ec european parliament council,ORG,1
+19 may 1998,DATE,1
+191,CARDINAL,1
+196,CARDINAL,1
+197,CARDINAL,1
+2 104,CARDINAL,1
+2 4,CARDINAL,1
+2 42,CARDINAL,1
+2 year 5,DATE,1
+20 000,CARDINAL,1
+33749 87,DATE,1
+33750,CARDINAL,1
+10932010 2,DATE,1
+14 2,CARDINAL,1
+1 month 2,DATE,1
+33745 67,CARDINAL,1
+33748,DATE,1
+337116,DATE,1
+337114,DATE,1
+30 31,CARDINAL,1
+337101 4,DATE,1
+30 calendar day,DATE,1
+3032 4148,DATE,1
+31 2,CARDINAL,1
+31 december,DATE,1
+311,CARDINAL,1
+32 33,CARDINAL,1
+32 33,QUANTITY,1
+323,CARDINAL,1
+33 43,CARDINAL,1
+337102,DATE,1
+337113 1,DATE,1
+337103 2,CARDINAL,1
+33746,DATE,1
+33744,DATE,1
+337105,CARDINAL,1
+33743 1,DATE,1
+6a,CARDINAL,1
+33736,CARDINAL,1
+337117,DATE,1
+337118,DATE,1
+337119,CARDINAL,1
+337120,DATE,1
+337122,CARDINAL,1
+337123,DATE,1
+337124,DATE,1
+337126,CARDINAL,1
+337127,DATE,1
+33737,DATE,1
+337115,DATE,1
+33738,CARDINAL,1
+33740,DATE,1
+33741 1,DATE,1
+33742,DATE,1
+337104,DATE,1
+337106,DATE,1
+1 million,CARDINAL,1
+141 562015,DATE,1
+143,CARDINAL,1
+149,CARDINAL,1
+15 eur 50 million,MONEY,1
+151,CARDINAL,1
+153,CARDINAL,1
+16 4,DATE,1
+11 may 2005,DATE,1
+10932010 7,DATE,1
+166 1161998,DATE,1
+1 recent year,DATE,1
+1 10,CARDINAL,1
+1 107,CARDINAL,1
+1 2,QUANTITY,1
+1 4,CARDINAL,1
+1 93,CARDINAL,1
+1 additional business day,DATE,1
+1 business day,DATE,1
+142,CARDINAL,1
+14 march 2012,DATE,1
+337108,CARDINAL,1
+11 6,DATE,1
+337109 1,CARDINAL,1
+337110,DATE,1
+337111,DATE,1
+337112,CARDINAL,1
+23 april 2008,DATE,1
+23 4,CARDINAL,1
+224 1572014,DATE,1
+113,CARDINAL,1
+114,CARDINAL,1
+115,CARDINAL,1
+117,CARDINAL,1
+12 36,CARDINAL,1
+121,CARDINAL,1
+124 2052003,DATE,1
+131,CARDINAL,1
+14 15,TIME,1
+14 language,QUANTITY,1
+78 3,CARDINAL,1
+54,CARDINAL,1
+684,PRODUCT,1
+33774,DATE,1
+33766,DATE,1
+33768,DATE,1
+33779,DATE,1
+33769,CARDINAL,1
+33770,DATE,1
+33771,CARDINAL,1
+33772,DATE,1
+33773 2,DATE,1
+33775,DATE,1
+791,CARDINAL,1
+33776,DATE,1
+33777,DATE,1
+38 822014,DATE,1
+4 13,DATE,1
+59,CARDINAL,1
+543,CARDINAL,1
+500 3 article,QUANTITY,1
+51,CARDINAL,1
+33764,CARDINAL,1
+33761 1,DATE,1
+33760,DATE,1
+33759 1,DATE,1
+33799,CARDINAL,1
+342,CARDINAL,1
+35 business day en l,DATE,1
+352,CARDINAL,1
+36 55,DATE,1
+361,CARDINAL,1
+369 17122011,DATE,1
+371,CARDINAL,1
+373,CARDINAL,1
+33782,DATE,1
+33780,DATE,1
+382,CARDINAL,1
+33767,DATE,1
+33754,CARDINAL,1
+33755,DATE,1
+33756,CARDINAL,1
+33757 15,CARDINAL,1
+51 52,CARDINAL,1
+511 4,CARDINAL,1
+522,CARDINAL,1
+401,CARDINAL,1
+412,CARDINAL,1
+413,CARDINAL,1
+42,CARDINAL,1
+422,CARDINAL,1
+425,CARDINAL,1
+426,CARDINAL,1
+431,CARDINAL,1
+49 59,DATE,1
+45 2,CARDINAL,1
+45 52,CARDINAL,1
+452001,CARDINAL,1
+452001 2,DATE,1
+456,CARDINAL,1
+46,DATE,1
+471,CARDINAL,1
+483,CARDINAL,1
+49,CARDINAL,1
+403,CARDINAL,1
+4 business day,DATE,1
+53,CARDINAL,1
+427,CARDINAL,1
+532,CARDINAL,1
+533,CARDINAL,1
+3 million,CARDINAL,1
+544,CARDINAL,1
+5 6,CARDINAL,1
+55,CARDINAL,1
+551,CARDINAL,1
+552,CARDINAL,1
+553,CARDINAL,1
+57,CARDINAL,1
+573,CARDINAL,1
+5752013,DATE,1
+5752013 41,DATE,1
+5752013 least 75,DATE,1
+500,CARDINAL,1
+5 13 july 2017,DATE,1
+4 23,CARDINAL,1
+33781,DATE,1
+33798,DATE,1
+33795 2,CARDINAL,1
+68,CARDINAL,1
+79,CARDINAL,1
+8 1212001,DATE,1
+60,CARDINAL,1
+94,CARDINAL,1
+884,CARDINAL,1
+892,CARDINAL,1
+90,CARDINAL,1
+901,CARDINAL,1
+90619eec,CARDINAL,1
+91,CARDINAL,1
+9102009,DATE,1
+9242009 19,DATE,1
+9242009 oj l,DATE,1
+942,CARDINAL,1
+882,CARDINAL,1
+951,CARDINAL,1
+953,CARDINAL,1
+681,CARDINAL,1
+665,CARDINAL,1
+96,CARDINAL,1
+664,CARDINAL,1
+65,CARDINAL,1
+61,CARDINAL,1
+614,CARDINAL,1
+62,CARDINAL,1
+621,CARDINAL,1
+622 4,QUANTITY,1
+625,CARDINAL,1
+63 2,DATE,1
+631,CARDINAL,1
+64 5,CARDINAL,1
+651,CARDINAL,1
+682,CARDINAL,1
+66,CARDINAL,1
+66 43,CARDINAL,1
+661,CARDINAL,1
+662,CARDINAL,1
+663,CARDINAL,1
+954,CARDINAL,1
+966,CARDINAL,1
+33794,DATE,1
+861,CARDINAL,1
+86635eec,CARDINAL,1
+86635eec 1,CARDINAL,1
+86635eec 8 december 1986,DATE,1
+871,CARDINAL,1
+87102eec oj l,CARDINAL,1
+872,CARDINAL,1
+601,CARDINAL,1
+6 2,DATE,1
+33752,DATE,1
+33796,DATE,1
+33784,DATE,1
+33785,CARDINAL,1
+33786,DATE,1
+33788,CARDINAL,1
+33790,DATE,1
+33792,DATE,1
+33793,CARDINAL,1
+863,CARDINAL,1
+86,CARDINAL,1
+97,CARDINAL,1
+88,CARDINAL,1
+97 18 month date,DATE,1
+972,CARDINAL,1
+975ec,ORDINAL,1
+883,CARDINAL,1
+881,CARDINAL,1
+8 2,CARDINAL,1
+84450eec,CARDINAL,1
+8 june 2000,DATE,1
+8 october 2015,DATE,1
+8 week,DATE,1
+81 86,CARDINAL,1
+811,CARDINAL,1
+82,CARDINAL,1
+831,CARDINAL,1
+832,CARDINAL,1
+84253eec,CARDINAL,1
+85,CARDINAL,1
+3 year en l 33762,DATE,1
+article 57 58,LAW,1
+3 200848ec 201183eu 4,DATE,1
+article 37 2,LAW,1
+ecb european economic social committee report,ORG,1
+eu2015849 european parliament coun cil,ORG,1
+european parliament council repeal council,ORG,1
+european system central bank,ORG,1
+european union 23122015 6,ORG,1
+european union agency,ORG,1
+european union agency network information security,ORG,1
+european union delegate commission,ORG,1
+european union l 337107,ORG,1
+european union l 337121,ORG,1
+european union l 337125,ORG,1
+european union l 33747,ORG,1
+european union l 33763,ORG,1
+european union l 33783,ORG,1
+european union late date,ORG,1
+every 2 year 4,DATE,1
+expiry period european parliament council inform commission,PERSON,1
+december 2007,DATE,1
+025,CARDINAL,1
+funda,ORG,1
+article 36,LAW,1
+article 1053,LAW,1
+article 1054,LAW,1
+article 1072,LAW,1
+article 1055,LAW,1
+article 221,LAW,1
+article 1061,LAW,1
+article 22,LAW,1
+article 214,LAW,1
+article 21,LAW,1
+article 20 liability,LAW,1
+article 1062,LAW,1
+article 1063,LAW,1
+article 20 31,LAW,1
+article 1064,LAW,1
+article 193 regulation eu,LAW,1
+article 107,LAW,1
+article 1071,LAW,1
+full year,DATE,1
+e f l first subparagraph,PERSON,1
+article 23 article,LAW,1
+control party,ORG,1
+h j l n p q,ORG,1
+january 2014,DATE,1
+article 90 article,LAW,1
+october 2013,DATE,1
+parliament council european union,ORG,1
+parliament council oj l 149 1162005,ORG,1
+previous financial year,DATE,1
+prudential supervision business electronic money institution,ORG,1
+prudential supervision credit institution,ORG,1
+recent year,DATE,1
+repeal council,ORG,1
+right european union,ORG,1
+rome,GPE,1
+schulz council,ORG,1
+september 2002,DATE,1
+september 2011,DATE,1
+state evaluate information receive,ORG,1
+day 2,DATE,1
+consumer hundred thousand,CARDINAL,1
+december 2005,DATE,1
+chapter 6,LAW,1
+january 2012,DATE,1
+day 5,DATE,1
+article 91 article 81,LAW,1
+article 92,LAW,1
+article 92 article,LAW,1
+article 92 article 82 article 93 article 83,LAW,1
+article 92 article 93 4 article,LAW,1
+article 94,LAW,1
+article 95,LAW,1
+article 95 article 117 article 96,LAW,1
+article 951,LAW,1
+article 97,LAW,1
+article 973,LAW,1
+article 99,LAW,1
+c p l n p,ORG,1
+chapter 2 3,LAW,1
+chapter 5,LAW,1
+article 1051,LAW,1
+article 234,LAW,1
+three,CARDINAL,1
+article 1,LAW,1
+article 34,LAW,1
+article 33,LAW,1
+article 1005,LAW,1
+article 285,LAW,1
+article 10 14 regulation eu,LAW,1
+article 325 article,LAW,1
+article 1001,LAW,1
+article 321 en l 33778,LAW,1
+article 321,LAW,1
+article 1003,LAW,1
+article 32 article,LAW,1
+article 1004,LAW,1
+article 326,LAW,1
+article 23 28,LAW,1
+article 282 regulation ec,LAW,1
+article 111,LAW,1
+article 19 directive,LAW,1
+article 1 article 21 3,LAW,1
+article,ORG,1
+article 1091,LAW,1
+article 34 article,LAW,1
+article 1021,LAW,1
+article 29 article,LAW,1
+article 290 treaty,LAW,1
+article 1022,LAW,1
+article 1013,LAW,1
+article 1012,LAW,1
+article 3 send notification competent authority provide competent authority annual,LAW,1
+article 1014,LAW,1
+article 1011,LAW,1
+article 30,LAW,1
+article 1153,LAW,1
+article 1006,LAW,1
+article 1 regulation,LAW,1
+982,CARDINAL,1
+article 341,LAW,1
+99,CARDINAL,1
+amount least 10,CARDINAL,1
+article 108,LAW,1
+article 1092,LAW,1
+article 24 3,LAW,1
+article 115 transposition,LAW,1
+article 12,LAW,1
+article 1152,LAW,1
+article 117 article,LAW,1
+article 1155,LAW,1
+article 1073,LAW,1
+article 191,LAW,1
+article 103 penalty,LAW,1
+article 23,LAW,1
+article 1031,LAW,1
+article 28 6,LAW,1
+article 28 29,LAW,1
+article 28,LAW,1
+article 27,LAW,1
+article 1032,LAW,1
+article 25 entitle national law provide payment service branch,LAW,1
+article 25 article 23 article,LAW,1
+article 105,LAW,1
+article 1151,LAW,1
+article 12 article 11,LAW,1
+article 18 5,LAW,1
+article 12 article 12 article,LAW,1
+article 1094,LAW,1
+article 171 article,LAW,1
+article 17,LAW,1
+article 16 regulation eu,LAW,1
+article 16 article,LAW,1
+article 1095,LAW,1
+article 11 17,LAW,1
+article 154,LAW,1
+article 11 6,LAW,1
+article 112 amendment regulation eu,LAW,1
+article 19 regulation eu,LAW,1
+article 113,LAW,1
+article 14,LAW,1
+article 1136 7 regulation eu,LAW,1
+article 13 2,LAW,1
+article 114,LAW,1
+article 13,LAW,1
+task european central bank,ORG,1
+title least 5 year,DATE,1
+254,CARDINAL,1
+article 7 article 6 article 81,LAW,1
+article 7 regulation eu 5752013,LAW,1
+article 70,LAW,1
+977ec 9827ec,PERSON,1
+article 71 2,LAW,1
+article 71 article 82 article 72 article 83 article 73,LAW,1
+article 72 73,LAW,1
+article 721,LAW,1
+article 731,LAW,1
+article 741,LAW,1
+article 741 3,LAW,1
+article 76 77 6,LAW,1
+article 70 article 85,LAW,1
+7 recent year,DATE,1
+977ec,PERSON,1
+977ec,CARDINAL,1
+261a,PRODUCT,1
+262,CARDINAL,1
+article 7 article 9,LAW,1
+article 691,LAW,1
+265,CARDINAL,1
+article 69 payment service,LAW,1
+article 833 payee,LAW,1
+article 85,LAW,1
+article 86,LAW,1
+article 86 article 72 en l,LAW,1
+article 87 3,LAW,1
+article 88,LAW,1
+article 882 3,LAW,1
+article 893 article,LAW,1
+article 9 calculation fund,LAW,1
+article 78 article,LAW,1
+article 761,LAW,1
+article 67 69,LAW,1
+article 76 77 81,LAW,1
+article 671 article,LAW,1
+article 68,LAW,1
+article 68 en 23122015,LAW,1
+article 681,LAW,1
+263,CARDINAL,1
+266,CARDINAL,1
+article 83 en l 337100,LAW,1
+231,CARDINAL,1
+23122015 1,CARDINAL,1
+23122015 2,CARDINAL,1
+23122015 2,DATE,1
+23122015 22,CARDINAL,1
+23122015 3,DATE,1
+23122015 30,DATE,1
+23122015 4,DATE,1
+232,CARDINAL,1
+25602001,DATE,1
+24 october 1995,DATE,1
+2412014 1,DATE,1
+2412014 7,DATE,1
+243,CARDINAL,1
+25 million 50 million,MONEY,1
+250 million,CARDINAL,1
+250 million plus,CARDINAL,1
+252,CARDINAL,1
+23122015 05,CARDINAL,1
+23122015 81,DATE,1
+27 31,CARDINAL,1
+26 28,DATE,1
+27 reference,MONEY,1
+271,CARDINAL,1
+271 4,WORK_OF_ART,1
+272,CARDINAL,1
+281,CARDINAL,1
+281 23111995,DATE,1
+287 29102013,DATE,1
+2882014,DATE,1
+29 april 2015,DATE,1
+292,CARDINAL,1
+293,CARDINAL,1
+294 5,PRODUCT,1
+295,CARDINAL,1
+3 13,DATE,1
+3 13 july 2017,DATE,1
+2602012,DATE,1
+26 june 2013,DATE,1
+article 831,LAW,1
+article 83 89,LAW,1
+today,DATE,1
+n v l u e e article 82,ORG,1
+national law outside union,ORG,1
+national union,ORG,1
+noneuro,ORG,1
+november 2006,DATE,1
+article 91 article 102,LAW,1
+article 90,LAW,1
+article 38,LAW,1
+article 52 point 5,LAW,1
+article 53 5,LAW,1
+article 53 61,LAW,1
+article 53 article 54 en 23122015,LAW,1
+article 541,LAW,1
+article 542 4,LAW,1
+article 55,LAW,1
+article 58 article,LAW,1
+article 59,LAW,1
+article 591,LAW,1
+national central bank,ORG,1
+n u p e r v n,ORG,1
+article 60,LAW,1
+n u h r e,ORG,1
+twentieth day,DATE,1
+year 40,DATE,1
+one third 1,CARDINAL,1
+november 2010,DATE,1
+january 2016,DATE,1
+november 2007,DATE,1
+january 2019,DATE,1
+january 2020,DATE,1
+january 2021,DATE,1
+july 2014,DATE,1
+july 2017,DATE,1
+late 13 month,DATE,1
+late 2 month,DATE,1
+later business day,DATE,1
+log bank,ORG,1
+n p e n l e article 101,ORG,1
+n r n,ORG,1
+article 6,LAW,1
+article 602 article,LAW,1
+article 83 84,LAW,1
+article 47,LAW,1
+article 48 article,LAW,1
+article 481,LAW,1
+article 49,LAW,1
+article 5 11,LAW,1
+article 5 treaty european union,LAW,1
+article 513,LAW,1
+article 52 apply 3,LAW,1
+article 663,LAW,1
+article 67,LAW,1
+article 9 directive 201336eu,LAW,1
+article 77,LAW,1
+article 782,LAW,1
+article 79,LAW,1
+article 791,LAW,1
+article 8 regulation eu,LAW,1
+article 81,LAW,1
+article 81 2,LAW,1
+article 48,LAW,1
+article 451,LAW,1
+article 613,LAW,1
+article 44,LAW,1
+article 62,LAW,1
+article 64 80,LAW,1
+article 65,LAW,1
+article 65 66,LAW,1
+article 66,LAW,1
+article 53,LAW,1
+article 52 point 3 article,LAW,1
+article 664,LAW,1
+article 52 point 2 article,LAW,1
+article 39,LAW,1
+article 4 1,LAW,1
+article 4 5,LAW,1
+article 4 article 4 point 1 2,LAW,1
+article 40,LAW,1
+article 41 article,LAW,1
+article 41 regulation branch locate union,LAW,1
+article 41of,LAW,1
+zero,CARDINAL,1
